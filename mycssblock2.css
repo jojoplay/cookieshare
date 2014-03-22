@@ -1,0 +1,135 @@
+body{
+	font-family:'Futura W01 Medium',Arial,Helvetica,sans-serif;
+
+}
+.block2{
+	width: 960px;
+	background-color: red;
+	margin: 0 auto;
+	
+}
+.topic{
+	width: 310px;
+	height: 100px;
+	color:white;
+	text-align: center;
+	text-transform: uppercase;
+	
+}
+
+.topic h3{
+	margin-top: 0px;
+}
+.pink{
+	background-color: #E3575F;
+}
+.purple{
+	background-color: #cd7ffa;
+}
+.green{
+	background-color: #14ee5c;
+}
+.blue{
+	background-color: #7fb6fa;
+}
+.orenge{
+	background-color: #f7b035;
+}
+.yellow{
+	background-color: #e6ff42;
+}
+.lock{
+	
+	width: 310px;
+	display: block;
+
+	float: left;
+	
+	margin: 0px 15px 0px 0px;
+	height: 1000px;
+}
+#lock3{
+width: 310px;
+	display: block;
+
+	float: left;
+	
+	margin: 0px 0px 0px 0px;
+	height: 1000px;
+}
+.block{
+	
+	width: 310px;
+	height: 300px;
+	margin: 0 0 10px 0;
+	border:solid 1px;
+	
+	
+
+	
+}
+.food{
+	height: 300px;
+}
+
+
+/*technic*/
+/*/////////////////////////////*/
+#technic{height: 430px;
+
+}
+#topictech{
+	width: 310px;
+	height: 60px;
+	text-align: center;
+
+
+}
+#topictech h3{
+	margin-top: 0px;
+	padding-top: 10px;
+
+}
+.body-tech{
+	background-color: #feefda; 
+	margin-top:-20px;
+	height: 100px;
+}
+
+
+.tech-box a { 
+	text-decoration:none; 
+	display: block;
+	 }
+
+.tech-box{
+	height: 75px; 
+	padding-top: 10px; 
+	border-top: 2px dashed #bec7c6; 
+	margin: 20px; 
+	position:relative;
+}
+.techimg {
+	width: 85px; 
+	height: 85px; 
+	display: inline-block; 
+	float: left; 
+	background-size: 100%;
+}
+.tech-box-title,p{
+	font-size:1em; /* 24px */
+	line-height:1.5em; /* 28px */
+	font-family: 'Futura W01 Medium',Arial,Helvetica,sans-serif;
+	text-align:left;
+	color:#000;
+	max-height:60px;
+	
+}
+/*.arrow{
+
+	font-size: 30;
+color: gray;
+right: -10px;
+margin-top: 0px;
+padding: 0px;
+}*/
