@@ -299,13 +299,14 @@ a{
 	margin: 0 auto;
 	width: 960px;
 	height: 400px;
-	background-color: #7a943c;
+	background-color: ;
 }
 .txt-topcontain{
 	width: 30%;
 	height: 80%;
 	margin-top: 40px;
 	position: absolute;
+	z-index: 1000000000000;
 }
 #topic2-topcontain{
 	font-size: 40px;
@@ -315,6 +316,7 @@ a{
 	color: white;
 	width: 75%;
 	text-align: center;
+
 }
 #topic-topcontain{
 	z-index: 99;

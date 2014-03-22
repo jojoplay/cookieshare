@@ -18,13 +18,10 @@
 	position: relative;
 	margin: -16 0 0 0;
 	padding: 0;
-background-size: 310px 200px;
-background-color: red;
+z-index: -1;
+
 }
-#head-slide{
-	background-size: 960px 400px;
-	background-color: yellow;
-}
+
 
 .bx-wrapper img {
 	max-width: 100%;
